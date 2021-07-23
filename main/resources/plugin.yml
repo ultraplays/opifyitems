@@ -1,5 +1,5 @@
 name: OpifyItems
-version: 1.1.1
+version: 1.1.1-alpha
 main: vb.$opifyitems.PluginMain
 author: UltraPlays
 softdepend: [EssentialsX]
